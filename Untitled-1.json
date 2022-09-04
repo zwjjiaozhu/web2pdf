@@ -1,0 +1,1359 @@
+{
+    "initialState": {
+        "common": {
+            "ask": {}
+        },
+        "loading": {
+            "global": {
+                "count": 0
+            },
+            "local": {
+                "env\u002FgetIpinfo\u002F": false,
+                "article\u002Fget\u002F": false,
+                "brand\u002FgetUrl\u002F": false,
+                "article\u002FloadPostSearchEntity\u002F": false
+            }
+        },
+        "club": {
+            "tags": {},
+            "admins": {
+                "data": []
+            },
+            "members": {
+                "data": []
+            },
+            "profile": {},
+            "checkin": {},
+            "comments": {
+                "paging": {},
+                "loading": {},
+                "meta": {},
+                "ids": {}
+            },
+            "postList": {
+                "paging": {},
+                "loading": {},
+                "ids": {}
+            },
+            "recommend": {
+                "data": []
+            },
+            "silences": {
+                "data": []
+            },
+            "application": {
+                "profile": null
+            }
+        },
+        "entities": {
+            "users": {
+                "252c742774993c361272009224be70c9": {
+                    "uid": 833710383050141700,
+                    "userType": "people",
+                    "id": "252c742774993c361272009224be70c9"
+                },
+                "ning-fa-tiao-niao-60-46": {
+                    "isFollowed": false,
+                    "avatarUrlTemplate": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93.jpg?source=172ae18b",
+                    "uid": "862987864575713280",
+                    "userType": "people",
+                    "isFollowing": false,
+                    "urlToken": "ning-fa-tiao-niao-60-46",
+                    "id": "cad2f9b784854e1f1c169ae072a5bb7d",
+                    "description": "拧发条鸟",
+                    "name": "粥少女的拧发条鸟",
+                    "isAdvertiser": false,
+                    "headline": "谈论现实",
+                    "gender": 1,
+                    "url": "\u002Fpeople\u002Fcad2f9b784854e1f1c169ae072a5bb7d",
+                    "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93_l.jpg?source=172ae18b",
+                    "isOrg": false,
+                    "type": "people",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "topics": [],
+                            "description": "湘潭大学 电子信息硕士在读"
+                        }
+                    ],
+                    "badgeV2": {
+                        "title": "湘潭大学 电子信息硕士在读",
+                        "mergedBadges": [
+                            {
+                                "type": "identity",
+                                "detailType": "identity",
+                                "title": "认证",
+                                "description": "湘潭大学 电子信息硕士在读",
+                                "url": "https:\u002F\u002Fwww.zhihu.com\u002Faccount\u002Fverification\u002Fintro",
+                                "sources": [],
+                                "icon": "",
+                                "nightIcon": ""
+                            }
+                        ],
+                        "detailBadges": [
+                            {
+                                "type": "identity",
+                                "detailType": "identity_people",
+                                "title": "已认证的个人",
+                                "description": "湘潭大学 电子信息硕士在读",
+                                "url": "https:\u002F\u002Fwww.zhihu.com\u002Faccount\u002Fverification\u002Fintro",
+                                "sources": [],
+                                "icon": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-235258cecb8a0f184c4d38483cd6f6b6_l.png?source=32738c0c",
+                                "nightIcon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-45e870b8f0982bcd7537ea4627afbd00_l.png?source=32738c0c"
+                            }
+                        ],
+                        "icon": "https:\u002F\u002Fpic4.zhimg.com\u002Fv2-235258cecb8a0f184c4d38483cd6f6b6_l.png?source=32738c0c",
+                        "nightIcon": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-45e870b8f0982bcd7537ea4627afbd00_l.png?source=32738c0c"
+                    },
+                    "exposedMedal": {
+                        "medalId": "972477022068568064",
+                        "medalName": "备受瞩目",
+                        "avatarUrl": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-a4a733d68844ff22956ae0ada4bd9d6c_r.png?source=172ae18b",
+                        "miniAvatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-a4a733d68844ff22956ae0ada4bd9d6c_l.png?source=172ae18b",
+                        "description": "被 500 个人关注",
+                        "medalAvatarFrame": ""
+                    }
+                }
+            },
+            "questions": {},
+            "answers": {},
+            "articles": {
+                "442329399": {
+                    "trackUrl": [
+                        "https:\u002F\u002Fsugar.zhihu.com\u002Fplutus_adreaper\u002Fcontent_monitor_log?si=__SESSIONID__&ti=__ATOKEN__&at=view&pf=__OS__&ed=BiBUKF0xBSkqGGVQBmh0AF1xTxyOLG4cJu4=&idfa=__IDFA__&imei=__IMEI__&androidid=__ANDROIDID__&oaid=__OAID__&ci=__CREATIVEID__&zid=__ZONEID__"
+                    ],
+                    "entityWords": [
+                        {
+                            "name": "递归函数",
+                            "mention": "递归函数",
+                            "matchorder": 1,
+                            "begin": 19007,
+                            "end": 19011,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Math",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJWCgzpgJLlvZLlh73mlbASBE1hdGgYv5QBIMOUASgBNQAAAAA6B2FydGljbGVAAEgAUiQzN2I5MWNjOS0xMThiLTQ5NzItYjgzNi1lNDAxZjk4MzlkNTM=",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "平方和",
+                            "mention": "平方和",
+                            "matchorder": 1,
+                            "begin": 12383,
+                            "end": 12386,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Math",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJRCgnlubPmlrnlkowSBE1hdGgY32Ag4mAoATUAAAAAOgdhcnRpY2xlQABIAFIkMzdiOTFjYzktMTE4Yi00OTcyLWI4MzYtZTQwMWY5ODM5ZDUz",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "直方图",
+                            "mention": "直方图",
+                            "matchorder": 1,
+                            "begin": 9971,
+                            "end": 9974,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Math",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJRCgnnm7Tmlrnlm74SBE1hdGgY800g9k0oATUAAAAAOgdhcnRpY2xlQABIAFIkMzdiOTFjYzktMTE4Yi00OTcyLWI4MzYtZTQwMWY5ODM5ZDUz",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "属性值",
+                            "mention": "属性值",
+                            "matchorder": 1,
+                            "begin": 749,
+                            "end": 752,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "OtherTerm",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJWCgnlsZ7mgKflgLwSCU90aGVyVGVybRjtBSDwBSgBNQAAAAA6B2FydGljbGVAAEgAUiQzN2I5MWNjOS0xMThiLTQ5NzItYjgzNi1lNDAxZjk4MzlkNTM=",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "机器学习",
+                            "mention": "机器学习",
+                            "matchorder": 1,
+                            "begin": 14295,
+                            "end": 14299,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Unknown",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJXCgzmnLrlmajlrabkuaASB1Vua25vd24Y128g228oATUAAAAAOgdhcnRpY2xlQABIAFIkMzdiOTFjYzktMTE4Yi00OTcyLWI4MzYtZTQwMWY5ODM5ZDUz",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "向量值",
+                            "mention": "向量值",
+                            "matchorder": 11,
+                            "begin": 9923,
+                            "end": 9926,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Math",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJRCgnlkJHph4\u002FlgLwSBE1hdGgYw00gxk0oCzUAAAAAOgdhcnRpY2xlQABIAFIkMzdiOTFjYzktMTE4Yi00OTcyLWI4MzYtZTQwMWY5ODM5ZDUz",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "拉普拉斯",
+                            "mention": "拉普拉斯",
+                            "matchorder": 11,
+                            "begin": 677,
+                            "end": 681,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "OtherTerm",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJZCgzmi4nmma7mi4nmlq8SCU90aGVyVGVybRilBSCpBSgLNQAAAAA6B2FydGljbGVAAEgAUiQzN2I5MWNjOS0xMThiLTQ5NzItYjgzNi1lNDAxZjk4MzlkNTM=",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "欧氏距离",
+                            "mention": "欧氏距离",
+                            "matchorder": 1,
+                            "begin": 12414,
+                            "end": 12418,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "OtherTerm",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJZCgzmrKfmsI\u002Fot53nprsSCU90aGVyVGVybRj+YCCCYSgBNQAAAAA6B2FydGljbGVAAEgAUiQzN2I5MWNjOS0xMThiLTQ5NzItYjgzNi1lNDAxZjk4MzlkNTM=",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "高斯噪声",
+                            "mention": "高斯噪声",
+                            "matchorder": 1,
+                            "begin": 3263,
+                            "end": 3267,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Physics",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJXCgzpq5jmlq\u002Flmarlo7ASB1BoeXNpY3MYvxkgwxkoATUAAAAAOgdhcnRpY2xlQABIAFIkMzdiOTFjYzktMTE4Yi00OTcyLWI4MzYtZTQwMWY5ODM5ZDUz",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "概率密度函数",
+                            "mention": "概率密度函数",
+                            "matchorder": 1,
+                            "begin": 9012,
+                            "end": 9018,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Math",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJaChLmpoLnjoflr4bluqblh73mlbASBE1hdGgYtEYgukYoATUAAAAAOgdhcnRpY2xlQABIAFIkMzdiOTFjYzktMTE4Yi00OTcyLWI4MzYtZTQwMWY5ODM5ZDUz",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        },
+                        {
+                            "name": "高斯分布",
+                            "mention": "高斯分布",
+                            "matchorder": 1,
+                            "begin": 15912,
+                            "end": 15916,
+                            "entityid": 0,
+                            "isBookMark": false,
+                            "link": {
+                                "linkType": 0,
+                                "linkUrl": "",
+                                "docType": "",
+                                "topicToken": ""
+                            },
+                            "entityClass": "Math",
+                            "score": 0,
+                            "attachedInfoBytes": "sgJUCgzpq5jmlq\u002FliIbluIMSBE1hdGgYqHwgrHwoATUAAAAAOgdhcnRpY2xlQABIAFIkMzdiOTFjYzktMTE4Yi00OTcyLWI4MzYtZTQwMWY5ODM5ZDUz",
+                            "isOnAB": false,
+                            "isNatural": 1
+                        }
+                    ],
+                    "id": 442329399,
+                    "title": "【我们为什么用高斯机制？】差分隐私代码实现系列（七）",
+                    "type": "article",
+                    "articleType": "normal",
+                    "excerptTitle": "",
+                    "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F442329399",
+                    "imageUrl": "",
+                    "titleImage": "",
+                    "excerpt": "差分隐私代码实现系列（七）写在前面的话 \u003Cstrong\u003E书上学来终觉浅，绝知此事要躬行\u003C\u002Fstrong\u003E。回顾 \u003Cstrong\u003E1、函数的灵敏度反映了函数的输出在其输入更改时将更改的量。\u003C\u002Fstrong\u003E \u003Cstrong\u003E2、这种敏感度度称为&#34;全局&#34;，因为它独立于所查询的实际数据集（它适用于相邻x 和x&#39;的任何选择）。\u003C\u002Fstrong\u003E \u003Cstrong\u003E3、这个想法…\u003C\u002Fstrong\u003E",
+                    "created": 1638865258,
+                    "updated": 1638865258,
+                    "author": {
+                        "isFollowed": false,
+                        "avatarUrlTemplate": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93.jpg?source=172ae18b",
+                        "uid": "862987864575713280",
+                        "userType": "people",
+                        "isFollowing": false,
+                        "urlToken": "ning-fa-tiao-niao-60-46",
+                        "id": "cad2f9b784854e1f1c169ae072a5bb7d",
+                        "description": "拧发条鸟",
+                        "name": "粥少女的拧发条鸟",
+                        "isAdvertiser": false,
+                        "headline": "谈论现实",
+                        "gender": 1,
+                        "url": "\u002Fpeople\u002Fcad2f9b784854e1f1c169ae072a5bb7d",
+                        "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93_l.jpg?source=172ae18b",
+                        "isOrg": false,
+                        "type": "people",
+                        "badge": [
+                            {
+                                "type": "identity",
+                                "topics": [],
+                                "description": "湘潭大学 电子信息硕士在读"
+                            }
+                        ],
+                        "badgeV2": {
+                            "title": "湘潭大学 电子信息硕士在读",
+                            "mergedBadges": [
+                                {
+                                    "type": "identity",
+                                    "detailType": "identity",
+                                    "title": "认证",
+                                    "description": "湘潭大学 电子信息硕士在读",
+                                    "url": "https:\u002F\u002Fwww.zhihu.com\u002Faccount\u002Fverification\u002Fintro",
+                                    "sources": [],
+                                    "icon": "",
+                                    "nightIcon": ""
+                                }
+                            ],
+                            "detailBadges": [
+                                {
+                                    "type": "identity",
+                                    "detailType": "identity_people",
+                                    "title": "已认证的个人",
+                                    "description": "湘潭大学 电子信息硕士在读",
+                                    "url": "https:\u002F\u002Fwww.zhihu.com\u002Faccount\u002Fverification\u002Fintro",
+                                    "sources": [],
+                                    "icon": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-235258cecb8a0f184c4d38483cd6f6b6_l.png?source=32738c0c",
+                                    "nightIcon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-45e870b8f0982bcd7537ea4627afbd00_l.png?source=32738c0c"
+                                }
+                            ],
+                            "icon": "https:\u002F\u002Fpic4.zhimg.com\u002Fv2-235258cecb8a0f184c4d38483cd6f6b6_l.png?source=32738c0c",
+                            "nightIcon": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-45e870b8f0982bcd7537ea4627afbd00_l.png?source=32738c0c"
+                        },
+                        "exposedMedal": {
+                            "medalId": "972477022068568064",
+                            "medalName": "备受瞩目",
+                            "avatarUrl": "https:\u002F\u002Fpica.zhimg.com\u002Fv2-a4a733d68844ff22956ae0ada4bd9d6c_r.png?source=172ae18b",
+                            "miniAvatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-a4a733d68844ff22956ae0ada4bd9d6c_l.png?source=172ae18b",
+                            "description": "被 500 个人关注",
+                            "medalAvatarFrame": ""
+                        }
+                    },
+                    "commentPermission": "all",
+                    "copyrightPermission": "need_review",
+                    "state": "published",
+                    "ipInfo": "",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "content": "\u003Ch1\u003E差分隐私代码实现系列（七）\u003C\u002Fh1\u003E\u003Ch1\u003E写在前面的话\u003C\u002Fh1\u003E\u003Cp data-pid=\"JT6KoP_G\"\u003E\u003Cstrong\u003E书上学来终觉浅，绝知此事要躬行\u003C\u002Fstrong\u003E。\u003C\u002Fp\u003E\u003Ch1\u003E回顾\u003C\u002Fh1\u003E\u003Cp data-pid=\"OmBvr8ok\"\u003E\u003Cstrong\u003E1、函数的灵敏度反映了函数的输出在其输入更改时将更改的量。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"wZOoxaq8\"\u003E\u003Cstrong\u003E2、这种敏感度度称为&#34;全局&#34;，因为它独立于所查询的实际数据集（它适用于相邻\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=x\" alt=\"x\" eeimg=\"1\"\u002F\u003E 和\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=x%27\" alt=\"x&#39;\" eeimg=\"1\"\u002F\u003E的任何选择）。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"egyH8tz3\"\u003E\u003Cstrong\u003E3、这个想法在某些情况下很容易形式化（例如，在美国人口普查中，每个人都提交包含其数据的单个响应），但在其他上下文中（例如位置轨迹，社交网络和时间序列数据）极具挑战性。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"3UYAovr_\"\u003E\u003Cstrong\u003E4、根据经验，当被求和属性的值不存在下限和上限时，求和查询具有无限的敏感度。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"1QvwIcAi\"\u003E\u003Cstrong\u003E5、具有无限敏感度的查询无法使用拉普拉斯机制使用差分隐私直接回答。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"6oFpEPKA\"\u003E\u003Cstrong\u003E6、裁剪的基本思想是对属性值强制实施上限和下限。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"8QXOGl73\"\u003E\u003Cstrong\u003E7、此外，在裁剪中丢失的信息量与确保差分隐私所需的噪声量之间存在权衡。当上下裁剪边界靠得更近时，灵敏度较低，需要的噪声更小，以确保差分隐私。但是，激进的剪切通常会从数据中删除大量信息。这种信息丢失往往会导致准确性的损失，这超过了灵敏度降低导致的噪声改善的程度。根据经验，请尝试将剪切边界设置为包含 100% 的数据集，或尽可能接近。在某些领域（例如，图查询，我们稍后将研究）比其他领域更难。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"zXyx3mbh\"\u003E\u003Cstrong\u003E8、请注意，对于最大的裁剪参数，总和会剧烈波动！关键是要寻找图形中相对平滑（意味着低噪声）且不增加（意味着裁剪边界足够）的区域。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Ch1\u003E松弛差分隐私（Approximate Differential Privacy）\u003C\u002Fh1\u003E\u003Cp data-pid=\"S5rObTUM\"\u003E松弛差分隐私，也称为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E-差分隐私，具有以下定义：\u003C\u002Fp\u003E\u003Cp data-pid=\"Gy0Fsz0V\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cmathsf%7BPr%7D%5BF%28x%29+%3D+S%5D+%5Cleq+e%5E%5Cepsilon+%5Cmathsf%7BPr%7D%5BF%28x%27%29+%3D+s%5D+%2B+%5Cdelta\" alt=\"\\mathsf{Pr}[F(x) = S] \\leq e^\\epsilon \\mathsf{Pr}[F(x&#39;) = s] + \\delta\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"j-4OA7As\"\u003E新的隐私参数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E表示定义的&#34;失败概率&#34;。\u003C\u002Fp\u003E\u003Cp data-pid=\"XxN1MAge\"\u003E有了概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=1-%5Cdelta\" alt=\"1-\\delta\" eeimg=\"1\"\u002F\u003E，我们将得到与纯差分隐私相同的保证;对于概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E，我们得不到保证。\u003C\u002Fp\u003E\u003Cp data-pid=\"tS22Qgcr\"\u003E换句话说：概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=1-%5Cdelta\" alt=\"1-\\delta\" eeimg=\"1\"\u002F\u003E下, \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cfrac%7B%5Cmathsf%7BPr%7D%5BF%28x%29+%3D+S%5D%7D%7B%5Cmathsf%7BPr%7D%5BF%28x%27%29+%3D+s%5D%7D+%5Cleq+e%5E%5Cepsilon\" alt=\"\\frac{\\mathsf{Pr}[F(x) = S]}{\\mathsf{Pr}[F(x&#39;) = s]} \\leq e^\\epsilon\" eeimg=\"1\"\u002F\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"BA89P0iO\"\u003E对于概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E，我们根本得不到保证。\u003C\u002Fp\u003E\u003Cp data-pid=\"NwsSdqUT\"\u003E这个定义应该看起来有点吓人！有了概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E，任何事情都可能发生。包括整个敏感数据集的发布！\u003C\u002Fp\u003E\u003Cp data-pid=\"EDwFkGCx\"\u003E因此，我们通常要求\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E非常小，通常为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cfrac%7B1%7D%7Bn%5E2%7D\" alt=\"\\frac{1}{n^2}\" eeimg=\"1\"\u002F\u003E或更小，其中\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=n\" alt=\"n\" eeimg=\"1\"\u002F\u003E是数据集的大小。\u003C\u002Fp\u003E\u003Cp data-pid=\"NlzUvoJT\"\u003E此外，我们还将看到，实践使用中的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E差分私有机制不会像定义所允许的那样灾难性地失败。相反，它们会优雅地失败，并且不会执行诸如释放整个数据集之类的可怕事情。\u003C\u002Fp\u003E\u003Cp data-pid=\"I8wgRAUx\"\u003E那么满足松弛差分隐私的机制存在吗？高斯来了~\u003C\u002Fp\u003E\u003Ch1\u003E高斯机制（The Gaussian Mechanism）\u003C\u002Fh1\u003E\u003Cp data-pid=\"9abiKC6a\"\u003E高斯机制是拉普拉斯机制的替代方案，不同在于加的是高斯噪声而不是拉普拉斯噪声。\u003C\u002Fp\u003E\u003Cp data-pid=\"p8pIc9fW\"\u003E高斯机制不满足纯\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E-差分隐私，但满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E-差分隐私。\u003C\u002Fp\u003E\u003Cp data-pid=\"3YBVhrOG\"\u003E根据高斯机制，对于返回数字的函数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"\u002F\u003E，以下\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=F%28x%29\" alt=\"F(x)\" eeimg=\"1\"\u002F\u003E定义满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E-差分隐私：\u003C\u002Fp\u003E\u003Cp data-pid=\"exnEnmK2\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=F%28x%29+%3D+f%28x%29+%2B+%5Cmathcal%7BN%7D%28%5Csigma%5E2%29%5C%5C%0A%5Ctext%7Bwhere+%7D+%5Csigma%5E2+%3D+%5Cfrac%7B2s%5E2+%5Clog%281.25%2F%5Cdelta%29%7D%7B%5Cepsilon%5E2%7D\" alt=\"F(x) = f(x) + \\mathcal{N}(\\sigma^2)\\\\\n\\text{where } \\sigma^2 = \\frac{2s^2 \\log(1.25\u002F\\delta)}{\\epsilon^2}\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"dRanBD_G\"\u003E其中\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=s\" alt=\"s\" eeimg=\"1\"\u002F\u003E是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E的敏感度，而\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cmathcal%7BN%7D%28%5Csigma%5E2%29\" alt=\"\\mathcal{N}(\\sigma^2)\" eeimg=\"1\"\u002F\u003E表示从中心为 0 且方差\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Csigma%5E2\" alt=\"\\sigma^2\" eeimg=\"1\"\u002F\u003E的高斯（正态）分布抽样。\u003C\u002Fp\u003E\u003Cp data-pid=\"Jn5tlxc0\"\u003E请注意，对于实值函数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f+%3A+D+%5Crightarrow+%5Cmathbb%7BR%7D\" alt=\"f : D \\rightarrow \\mathbb{R}\" eeimg=\"1\"\u002F\u003E，我们可以与拉普拉斯机制完全相同的方式使用高斯机制，并且很容易比较在给定值\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E的两种机制下发生的情况。\u003C\u002Fp\u003E\u003Cp data-pid=\"umOrVGcD\"\u003E说起来可能不直观，直接上代码！\u003C\u002Fp\u003E\u003Cdiv class=\"highlight\"\u003E\u003Cpre\u003E\u003Ccode class=\"language-python\"\u003E\u003Cspan class=\"o\"\u003E%\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ematplotlib\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Einline\u003C\u002Fspan\u003E\n\u003Cspan class=\"kn\"\u003Eimport\u003C\u002Fspan\u003E \u003Cspan class=\"nn\"\u003Ematplotlib.pyplot\u003C\u002Fspan\u003E \u003Cspan class=\"kn\"\u003Eas\u003C\u002Fspan\u003E \u003Cspan class=\"nn\"\u003Eplt\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Estyle\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Euse\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"s1\"\u003E&#39;seaborn-whitegrid&#39;\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\u003Cspan class=\"kn\"\u003Eimport\u003C\u002Fspan\u003E \u003Cspan class=\"nn\"\u003Epandas\u003C\u002Fspan\u003E \u003Cspan class=\"kn\"\u003Eas\u003C\u002Fspan\u003E \u003Cspan class=\"nn\"\u003Epd\u003C\u002Fspan\u003E\n\u003Cspan class=\"kn\"\u003Eimport\u003C\u002Fspan\u003E \u003Cspan class=\"nn\"\u003Enumpy\u003C\u002Fspan\u003E \u003Cspan class=\"kn\"\u003Eas\u003C\u002Fspan\u003E \u003Cspan class=\"nn\"\u003Enp\u003C\u002Fspan\u003E\n\n\u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"mi\"\u003E1\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Evals_laplace\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"p\"\u003E[\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Erandom\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Elaplace\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eloc\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E0\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Escale\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E1\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E\u002F\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E \u003Cspan class=\"k\"\u003Efor\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ex\u003C\u002Fspan\u003E \u003Cspan class=\"ow\"\u003Ein\u003C\u002Fspan\u003E \u003Cspan class=\"nb\"\u003Erange\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E100000\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)]\u003C\u002Fspan\u003E\n\n\u003Cspan class=\"n\"\u003Edelta\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"mf\"\u003E10e-5\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Esigma\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Esqrt\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E2\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E*\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Elog\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mf\"\u003E1.25\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E\u002F\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Edelta\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E))\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E*\u003C\u002Fspan\u003E \u003Cspan class=\"mi\"\u003E1\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E\u002F\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Evals_gauss\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"p\"\u003E[\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Erandom\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Enormal\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eloc\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E0\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Escale\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Esigma\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E \u003Cspan class=\"k\"\u003Efor\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ex\u003C\u002Fspan\u003E \u003Cspan class=\"ow\"\u003Ein\u003C\u002Fspan\u003E \u003Cspan class=\"nb\"\u003Erange\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E100000\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)]\u003C\u002Fspan\u003E\n\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ehist\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Evals_laplace\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ebins\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E50\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Elabel\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"s1\"\u003E&#39;Laplace&#39;\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ehist\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Evals_gauss\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ebins\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E50\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ealpha\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=.\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E7\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Elabel\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"s1\"\u003E&#39;Gaussian&#39;\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E);\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Elegend\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E();\u003C\u002Fspan\u003E\n\u003C\u002Fcode\u003E\u003C\u002Fpre\u003E\u003C\u002Fdiv\u003E\u003Cp data-pid=\"hy0WNzNn\"\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic2.zhimg.com\u002Fv2-89b90c3cf64825de7be3adb7843de2b1_b.jpg\" data-size=\"normal\" class=\"content_image\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;0&#39; height=&#39;0&#39;&gt;&lt;\u002Fsvg&gt;\" data-size=\"normal\" class=\"content_image lazy\" data-actualsrc=\"https:\u002F\u002Fpic2.zhimg.com\u002Fv2-89b90c3cf64825de7be3adb7843de2b1_b.jpg\"\u002F\u003E\u003Cfigcaption\u003E在这里插入图片描述\u003C\u002Ffigcaption\u003E\u003C\u002Ffigure\u003E\n在这里，我们绘制了\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon+%3D+1\" alt=\"\\epsilon = 1\" eeimg=\"1\"\u002F\u003E的拉普拉斯和高斯机制的经验概率密度函数，以及高斯机制的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta+%3D+10%5E%7B-5%7D\" alt=\"\\delta = 10^{-5}\" eeimg=\"1\"\u002F\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"KWbv2Oa7\"\u003E与拉普拉斯机制相比，高斯机制的图看起来&#34;被挤压&#34;了。与拉普拉斯机制相比，使用高斯机制得到其他答案的可能性要大得多，而拉普拉斯机制则更贴近真实答案的差分私有输出（相比之下，拉普拉斯机制看起来非常&#34;尖锐&#34;）。\u003C\u002Fp\u003E\u003Cp data-pid=\"fiT4S2zl\"\u003E因此，高斯机制有两个主要缺点，它需要使用宽松的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E差分隐私定义，并且它不如拉普拉斯机制准确。我们为什么要使用它？\u003C\u002Fp\u003E\u003Ch1\u003E矢量值函数及其灵敏度（Vector-Valued Functions and their Sensitivities）\u003C\u002Fh1\u003E\u003Cp data-pid=\"k7hAhJMd\"\u003E到目前为止，我们只考虑了实值函数（即函数的输出始终是单个实数）。这些函数的形式为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f+%3A+D+%5Crightarrow+%5Cmathbb%7BR%7D\" alt=\"f : D \\rightarrow \\mathbb{R}\" eeimg=\"1\"\u002F\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"s_XKLHD2\"\u003E然而，拉普拉斯和高斯机制都可以扩展到\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f+%3A+D+%5Crightarrow+%5Cmathbb%7BR%7D%5Ek\" alt=\"f : D \\rightarrow \\mathbb{R}^k\" eeimg=\"1\"\u002F\u003E形式的向量值函数，它们返回实数的向量。\u003C\u002Fp\u003E\u003Cp data-pid=\"uypUZ3Mk\"\u003E我们可以将直方图视为矢量值函数，它返回一个向量，其元素由直方图条柱计数组成。\u003C\u002Fp\u003E\u003Cp data-pid=\"wSJGVqTo\"\u003E我们之前看到函数的灵敏度是：\u003C\u002Fp\u003E\u003Cp data-pid=\"gMVKS-KE\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=GS%28f%29+%3D+%5Cmax_%7Bd%28x%2Cx%27%29+%5Cleq+1%7D+%5Clvert+f%28x%29+-+f%28x%27%29+%5Crvert\" alt=\"GS(f) = \\max_{d(x,x&#39;) \\leq 1} \\lvert f(x) - f(x&#39;) \\rvert\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"2fDnDJmA\"\u003E我们如何定义向量值函数的灵敏度？\u003C\u002Fp\u003E\u003Cp data-pid=\"3b7waEp8\"\u003E考虑表达式\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f%28x%29+-+f%28x%27%29\" alt=\"f(x) - f(x&#39;)\" eeimg=\"1\"\u002F\u003E。如果\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E是一个向量值函数，则此表达式表示两个向量之间的差异，这可以计算为它们对应元素之间的差异（因此，两个长度 -\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E向量的差值是一个新的长度 -\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E向量）。这个新向量是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"\u002F\u003E 和\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f%28x%27%29\" alt=\"f(x&#39;)\" eeimg=\"1\"\u002F\u003E之间的距离，表示为向量。\u003C\u002Fp\u003E\u003Cp data-pid=\"50ha3_wo\"\u003E此向量的大小是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E的灵敏度。有几种方法可以计算矢量的大小;我们将使用其中两个：\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E范数和\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E范数。\u003C\u002Fp\u003E\u003Ch1\u003EL1 和 L2 规范（L1 and L2 Norms）\u003C\u002Fh1\u003E\u003Cp data-pid=\"IUe7xiG0\"\u003E长度为 \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E的向量\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=V\" alt=\"V\" eeimg=\"1\"\u002F\u003E的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E范数定义为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5ClVert+V+%5CrVert_1+%3D+%5Csum_%7Bi%3D1%7D%5Ek+%5Clvert+V_i+%5Crvert\" alt=\"\\lVert V \\rVert_1 = \\sum_{i=1}^k \\lvert V_i \\rvert\" eeimg=\"1\"\u002F\u003E（即它是向量元素的总和）。在二维空间中，两个向量之间差的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E范数产生它们之间的\u003Ca href=\"https:\u002F\u002Flink.zhihu.com\u002F?target=https%3A\u002F\u002Fblog.csdn.net\u002Fqq_39362996\u002Farticle\u002Fdetails\u002F96896568\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003E&#34;曼哈顿距离&#34;\u003C\u002Fa\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"4ppuSThN\"\u003E长度为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E的向量\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=V\" alt=\"V\" eeimg=\"1\"\u002F\u003E的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E范数定义为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5ClVert+V+%5CrVert_2+%3D+%5Csqrt%7B%5Csum_%7Bi%3D1%7D%5Ek+V_i%5E2%7D\" alt=\"\\lVert V \\rVert_2 = \\sqrt{\\sum_{i=1}^k V_i^2}\" eeimg=\"1\"\u002F\u003E（即平方和的平方根）。\u003Cstrong\u003E在二维空间中，这是&#34;欧氏距离&#34;，并且它总是小于或等于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E距离\u003C\u002Fstrong\u003E。\u003C\u002Fp\u003E\u003Ch1\u003EL1 和 L2 灵敏度（L1 and L2 Sensitivities）\u003C\u002Fh1\u003E\u003Cp data-pid=\"iNC5Nnjf\"\u003E向量值函数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E 的 \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度为：\u003C\u002Fp\u003E\u003Cp data-pid=\"L2yRjM3S\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=GS%28f%29+%3D+%5Cmax_%7Bd%28x%2Cx%27%29+%5Cleq+1%7D+%5ClVert+f%28x%29+-+f%28x%27%29+%5CrVert_1\" alt=\"GS(f) = \\max_{d(x,x&#39;) \\leq 1} \\lVert f(x) - f(x&#39;) \\rVert_1\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"1stf7jNp\"\u003E这等于按元素灵敏度的总和。例如，如果我们定义一个向量值函数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E返回 1 个敏感结果的长度\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E向量，\u003Cstrong\u003E则\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E 的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E敏感度为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E\u003C\u002Fstrong\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"3GQfVMNT\"\u003E类似地，向量值函数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E 的 \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度为：\u003C\u002Fp\u003E\u003Cp data-pid=\"YHxqfpJ4\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=GS_2%28f%29+%3D+%5Cmax_%7Bd%28x%2Cx%27%29+%5Cleq+1%7D+%5ClVert+f%28x%29+-+f%28x%27%29+%5CrVert_2\" alt=\"GS_2(f) = \\max_{d(x,x&#39;) \\leq 1} \\lVert f(x) - f(x&#39;) \\rVert_2\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"9wlq9NL1\"\u003E使用与上面相同的示例，返回长度\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E向量的 1 个敏感结果的向量值函数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E的敏感度为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E 。 对于长矢量，\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度显然会远低于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度！对于某些应用程序，如机器学习算法（有时返回具有数千个元素的向量），\u003Cstrong\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度明显低于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度\u003C\u002Fstrong\u003E。\u003C\u002Fp\u003E\u003Ch1\u003E在 L1 和 L2 之间进行选择（Choosing Between L1 and L2）\u003C\u002Fh1\u003E\u003Cp data-pid=\"rNvAJ-MD\"\u003E如前所述，拉普拉斯和高斯机制都可以扩展到向量值函数。但是，这两个扩展之间存在一个关键区别：\u003Cstrong\u003E向量值拉普拉斯机制需要使用\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度，而向量值高斯机制允许使用\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E或\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度\u003C\u002Fstrong\u003E。这是高斯机制的一个\u003Cstrong\u003E主要优势\u003C\u002Fstrong\u003E。\u003Cstrong\u003E对于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度远低于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度的应用，高斯机制允许添加更少的噪声\u003C\u002Fstrong\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"a1ELt1PR\"\u003E向量值拉普拉斯机制释放\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f%28x%29+%2B+%28Y_1%2C+%5Cdots%2C+Y_k%29\" alt=\"f(x) + (Y_1, \\dots, Y_k)\" eeimg=\"1\"\u002F\u003E，其中\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=Y_i\" alt=\"Y_i\" eeimg=\"1\"\u002F\u003E是从拉普拉斯分布中得出的 i.i.d，其尺度为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cfrac%7Bs%7D%7B%5Cepsilon%7D\" alt=\"\\frac{s}{\\epsilon}\" eeimg=\"1\"\u002F\u003E和 \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=s\" alt=\"s\" eeimg=\"1\"\u002F\u003E是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E 的 \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E敏感性。\u003C\u002Fp\u003E\u003Cp data-pid=\"pov9rXll\"\u003E向量值高斯机制释放\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f%28x%29+%2B+%28Y_1%2C+%5Cdots%2C+Y_k%29\" alt=\"f(x) + (Y_1, \\dots, Y_k)\" eeimg=\"1\"\u002F\u003E，其中\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=Y_i\" alt=\"Y_i\" eeimg=\"1\"\u002F\u003E从高斯分布中得出 i.i.d. 与\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Csigma%5E2+%3D+%5Cfrac%7B2s%5E2+%5Clog%281.25%2F%5Cdelta%29%7D%7B%5Cepsilon%5E2%7D\" alt=\"\\sigma^2 = \\frac{2s^2 \\log(1.25\u002F\\delta)}{\\epsilon^2}\" eeimg=\"1\"\u002F\u003E和\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=s\" alt=\"s\" eeimg=\"1\"\u002F\u003E是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=f\" alt=\"f\" eeimg=\"1\"\u002F\u003E的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E敏感性。\u003C\u002Fp\u003E\u003Ch1\u003E灾难机制（The Catastrophe Mechanism）\u003C\u002Fh1\u003E\u003Cp data-pid=\"BGbaROc_\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E-差分隐私的定义表明，满足定义的机制必须&#34;表现良好&#34;，概率为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=1-%5Cdelta\" alt=\"1-\\delta\" eeimg=\"1\"\u002F\u003E。这意味着对于概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E，该机制可以做任何事情。这种&#34;失败概率&#34;令人担忧，因为满足宽松定义的机制可能（概率较低）导致非常糟糕的结果。\u003C\u002Fp\u003E\u003Cp data-pid=\"wWFLZFwC\"\u003E考虑以下机制，我们称之为灾难机制：\u003C\u002Fp\u003E\u003Cp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic2.zhimg.com\u002Fv2-fa8e16069f8f32b5dfdd0875c792e89d_b.jpg\" data-size=\"normal\" class=\"content_image\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;0&#39; height=&#39;0&#39;&gt;&lt;\u002Fsvg&gt;\" data-size=\"normal\" class=\"content_image lazy\" data-actualsrc=\"https:\u002F\u002Fpic2.zhimg.com\u002Fv2-fa8e16069f8f32b5dfdd0875c792e89d_b.jpg\"\u002F\u003E\u003Cfigcaption\u003E在这里插入图片描述\u003C\u002Ffigcaption\u003E\u003C\u002Ffigure\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"mPGrlU2R\"\u003E对于概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=1-%5Cdelta\" alt=\"1-\\delta\" eeimg=\"1\"\u002F\u003E，灾难机制满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E-差分隐私。对于概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E，它会释放整个数据集，没有噪声。\u003C\u002Fp\u003E\u003Cp data-pid=\"qN4XioAC\"\u003E这种机制满足了松弛差分隐私的定义，但我们可能不希望在实践中使用它。\u003C\u002Fp\u003E\u003Cp data-pid=\"e_NAzQam\"\u003E幸运的是，大多数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E差分私有机制都没有这种灾难性的故障模式。\u003C\u002Fp\u003E\u003Cp data-pid=\"LdThTnah\"\u003E例如，高斯机制永远不会释放整个数据集。\u003C\u002Fp\u003E\u003Cp data-pid=\"uBP14y6C\"\u003E相反，对于概率\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E，高斯机制不能完全满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E-差分隐私，它满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=c%5Cepsilon\" alt=\"c\\epsilon\" eeimg=\"1\"\u002F\u003E-差分隐私，而是对于某个值\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=c\" alt=\"c\" eeimg=\"1\"\u002F\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"_8aaoGPo\"\u003E因此，高斯机制优雅地失败了，而不是灾难性的，所以对高斯机制比对灾难机制更有信心是合理的。\u003C\u002Fp\u003E\u003Cp data-pid=\"lIX_YWJn\"\u003E稍后，我们将看到对差分隐私定义的替代放宽，这些放宽区分了优雅失败的机制（如高斯机制）和灾难性失败的机制（如灾难机制）。\u003C\u002Fp\u003E\u003Ch1\u003E高级组合（Advanced Composition）\u003C\u002Fh1\u003E\u003Cp data-pid=\"PdYgT4S-\"\u003E我们已经看到了两种结合差分私有机制的方法：顺序组合和平行组合。事实证明，差分隐私引入了一种分析差分私有机制顺序组成的新方法，这可以降低隐私成本。\u003C\u002Fp\u003E\u003Cp data-pid=\"F_THs73l\"\u003E高级组合定理通常用机制来表示，这些机制是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold 自适应组合的实例。\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold 自适应组合是一系列机制\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_1%2C+%5Cdots%2C+m_k\" alt=\"m_1, \\dots, m_k\" eeimg=\"1\"\u002F\u003E，使得：\u003C\u002Fp\u003E\u003Cp data-pid=\"Wqjh8UdT\"\u003E每个机制\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_i\" alt=\"m_i\" eeimg=\"1\"\u002F\u003E都可以根据所有先前机制的输出来选择\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_1%2C+%5Cdots%2C+m_%7Bi-1%7D\" alt=\"m_1, \\dots, m_{i-1}\" eeimg=\"1\"\u002F\u003E （因此自适应)。\u003C\u002Fp\u003E\u003Cp data-pid=\"HHgVi0dg\"\u003E每个机制\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_i\" alt=\"m_i\" eeimg=\"1\"\u002F\u003E的输入既是私有数据集，也是以前机制的所有输出（因此组成)。\u003C\u002Fp\u003E\u003Cp data-pid=\"w3L7H-ZP\"\u003E迭代程序（即循环或递归函数）几乎总是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold自适应组合的实例。例如，运行 1000 次迭代的\u003Ccode\u003Efor\u003C\u002Fcode\u003E循环是 1000 倍的自适应合成。作为更具体的例子，平均攻击是\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold自适应组合。\u003C\u002Fp\u003E\u003Cdiv class=\"highlight\"\u003E\u003Cpre\u003E\u003Ccode class=\"language-python\"\u003E\u003Cspan class=\"c1\"\u003E# works for sensitivity-1 queries\u003C\u002Fspan\u003E\n\u003Cspan class=\"k\"\u003Edef\u003C\u002Fspan\u003E \u003Cspan class=\"nf\"\u003Eavg_attack\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Equery\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E):\u003C\u002Fspan\u003E\n    \u003Cspan class=\"n\"\u003Eresults\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"p\"\u003E[\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Equery\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E+\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Erandom\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Elaplace\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eloc\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E0\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Escale\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E1\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E\u002F\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E \u003Cspan class=\"k\"\u003Efor\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ei\u003C\u002Fspan\u003E \u003Cspan class=\"ow\"\u003Ein\u003C\u002Fspan\u003E \u003Cspan class=\"nb\"\u003Erange\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)]\u003C\u002Fspan\u003E\n    \u003Cspan class=\"k\"\u003Ereturn\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Emean\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eresults\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\n\u003Cspan class=\"n\"\u003Eavg_attack\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E10\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"mi\"\u003E1\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E,\u003C\u002Fspan\u003E \u003Cspan class=\"mi\"\u003E500\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\u003C\u002Fcode\u003E\u003C\u002Fpre\u003E\u003C\u002Fdiv\u003E\u003Cp data-pid=\"ndG-8yJp\"\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic1.zhimg.com\u002Fv2-51943e3122f875aa5a7b81fa74b3077c_b.jpg\" data-size=\"normal\" class=\"content_image\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;0&#39; height=&#39;0&#39;&gt;&lt;\u002Fsvg&gt;\" data-size=\"normal\" class=\"content_image lazy\" data-actualsrc=\"https:\u002F\u002Fpic1.zhimg.com\u002Fv2-51943e3122f875aa5a7b81fa74b3077c_b.jpg\"\u002F\u003E\u003Cfigcaption\u003E在这里插入图片描述\u003C\u002Ffigcaption\u003E\u003C\u002Ffigure\u003E\n在此示例中，机制序列是预先固定的（我们每次都使用相同的机制），并且\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k+%3D+500\" alt=\"k = 500\" eeimg=\"1\"\u002F\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"6kRpkJKm\"\u003E标准顺序组合定理说：\u003C\u002Fp\u003E\u003Cp data-pid=\"9ohoKJNe\"\u003E该机制的总隐私成本为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k%5Cepsilon\" alt=\"k\\epsilon\" eeimg=\"1\"\u002F\u003E（在本例中为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=500+%5Cepsilon\" alt=\"500 \\epsilon\" eeimg=\"1\"\u002F\u003E）。\u003C\u002Fp\u003E\u003Cp data-pid=\"5TX0NNDh\"\u003E高级组合定理说：\u003C\u002Fp\u003E\u003Cp data-pid=\"pI_sbQKB\"\u003E如果\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold自适应组合\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_1%2C+%5Cdots%2C+m_k\" alt=\"m_1, \\dots, m_k\" eeimg=\"1\"\u002F\u003E中的每个机制\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_i\" alt=\"m_i\" eeimg=\"1\"\u002F\u003E 都满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E-差分隐私\u003C\u002Fp\u003E\u003Cp data-pid=\"6OnJobGq\"\u003E然后对于任何\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta+%5Cgeq+0\" alt=\"\\delta \\geq 0\" eeimg=\"1\"\u002F\u003E，整个\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold 自适应组合满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%27%2C+%5Cdelta%27%29\" alt=\"(\\epsilon&#39;, \\delta&#39;)\" eeimg=\"1\"\u002F\u003E-差分隐私，其中：\u003C\u002Fp\u003E\u003Cp data-pid=\"IsSoQTJ9\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon%27+%3D+2%5Cepsilon+%5Csqrt%7B2k+%5Clog%281%2F%5Cdelta%27%29%7D\" alt=\"\\epsilon&#39; = 2\\epsilon \\sqrt{2k \\log(1\u002F\\delta&#39;)}\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"msPNMgiZ\"\u003E从上面的示例中插入\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon+%3D+1\" alt=\"\\epsilon = 1\" eeimg=\"1\"\u002F\u003E，并设置\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta%27+%3D+10%5E%7B-5%7D\" alt=\"\\delta&#39; = 10^{-5}\" eeimg=\"1\"\u002F\u003E，我们得到：\u003C\u002Fp\u003E\u003Cp data-pid=\"MppCob29\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon%27+%3D2+%5Csqrt%7B1000+%5Clog%28100000%29%7D%5C%5C%0A%5Capprox+214.59\" alt=\"\\epsilon&#39; =2 \\sqrt{1000 \\log(100000)}\\\\\n\\approx 214.59\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"Nig1bzGL\"\u003E因此，对于相同的机制，高级组合在\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon%27\" alt=\"\\epsilon&#39;\" eeimg=\"1\"\u002F\u003E上派生出比顺序组合低得多的界。\u003C\u002Fp\u003E\u003Cp data-pid=\"_6JyV-UE\"\u003E这是什么意思？\u003C\u002Fp\u003E\u003Cp data-pid=\"LNgroTWJ\"\u003E这意味着顺序组合给出的边界是松散的 ，它们不会严格约束计算的实际隐私成本。\u003C\u002Fp\u003E\u003Cp data-pid=\"RF8LiV95\"\u003E事实上，高级组合也给出了松散的边界，它们只是比顺序合成给出的边界稍微紧致一些。\u003C\u002Fp\u003E\u003Cp data-pid=\"R5lFlbFt\"\u003E请务必注意，这两个边界在技术上是无法比较的，因为高级组合引入了\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E。但是，当\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E较小时，我们通常会比较这两种方法给出的 \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E。\u003C\u002Fp\u003E\u003Cp data-pid=\"UGYGHulw\"\u003E那么，我们应该总是使用高级组合吗？事实证明，我们不应该。让我们尝试上面的实验，了解\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E的不同值，并绘制顺序组合和高级组合下的总隐私成本图。\u003C\u002Fp\u003E\u003Cdiv class=\"highlight\"\u003E\u003Cpre\u003E\u003Ccode class=\"language-python\"\u003E\u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"mi\"\u003E1\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Edelta\u003C\u002Fspan\u003E \u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E \u003Cspan class=\"mf\"\u003E10e-5\u003C\u002Fspan\u003E\n\n\u003Cspan class=\"k\"\u003Edef\u003C\u002Fspan\u003E \u003Cspan class=\"nf\"\u003Eadv_comp\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E):\u003C\u002Fspan\u003E\n    \u003Cspan class=\"k\"\u003Ereturn\u003C\u002Fspan\u003E \u003Cspan class=\"mi\"\u003E2\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E*\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E*\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Esqrt\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E2\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E*\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E*\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Enp\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Elog\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E1\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E\u002F\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Edelta\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E))\u003C\u002Fspan\u003E\n\n\u003Cspan class=\"k\"\u003Edef\u003C\u002Fspan\u003E \u003Cspan class=\"nf\"\u003Eseq_comp\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E):\u003C\u002Fspan\u003E\n    \u003Cspan class=\"k\"\u003Ereturn\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E*\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eepsilon\u003C\u002Fspan\u003E\n\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eplot\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E([\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eseq_comp\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E \u003Cspan class=\"k\"\u003Efor\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E \u003Cspan class=\"ow\"\u003Ein\u003C\u002Fspan\u003E \u003Cspan class=\"nb\"\u003Erange\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E100\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)],\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Elabel\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"s1\"\u003E&#39;Sequential Composition&#39;\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eplot\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E([\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eadv_comp\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E \u003Cspan class=\"k\"\u003Efor\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E \u003Cspan class=\"ow\"\u003Ein\u003C\u002Fspan\u003E \u003Cspan class=\"nb\"\u003Erange\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E100\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)],\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Elabel\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"s1\"\u003E&#39;Advanced Composition&#39;\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Elegend\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E();\u003C\u002Fspan\u003E\n\u003C\u002Fcode\u003E\u003C\u002Fpre\u003E\u003C\u002Fdiv\u003E\u003Cp data-pid=\"ygNXrg8_\"\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic3.zhimg.com\u002Fv2-bdae2c06d6c75f19b592134c149f4cd6_b.jpg\" data-size=\"normal\" class=\"content_image\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;0&#39; height=&#39;0&#39;&gt;&lt;\u002Fsvg&gt;\" data-size=\"normal\" class=\"content_image lazy\" data-actualsrc=\"https:\u002F\u002Fpic3.zhimg.com\u002Fv2-bdae2c06d6c75f19b592134c149f4cd6_b.jpg\"\u002F\u003E\u003Cfigcaption\u003E在这里插入图片描述\u003C\u002Ffigcaption\u003E\u003C\u002Ffigure\u003E\n事实证明，标准的顺序合成击败了小于约70的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E的高级合成。因此，高级组合只有在\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E较大（例如超过 100）时才真正有用。但是，当\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E非常大时，高级组合可以产生很大的不同。\u003C\u002Fp\u003E\u003Cdiv class=\"highlight\"\u003E\u003Cpre\u003E\u003Ccode class=\"language-python\"\u003E\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eplot\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E([\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eseq_comp\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E \u003Cspan class=\"k\"\u003Efor\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E \u003Cspan class=\"ow\"\u003Ein\u003C\u002Fspan\u003E \u003Cspan class=\"nb\"\u003Erange\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E10000\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)],\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Elabel\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"s1\"\u003E&#39;Sequential Composition&#39;\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eplot\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E([\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Eadv_comp\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E \u003Cspan class=\"k\"\u003Efor\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Ek\u003C\u002Fspan\u003E \u003Cspan class=\"ow\"\u003Ein\u003C\u002Fspan\u003E \u003Cspan class=\"nb\"\u003Erange\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E(\u003C\u002Fspan\u003E\u003Cspan class=\"mi\"\u003E10000\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)],\u003C\u002Fspan\u003E \u003Cspan class=\"n\"\u003Elabel\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E=\u003C\u002Fspan\u003E\u003Cspan class=\"s1\"\u003E&#39;Advanced Composition&#39;\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E)\u003C\u002Fspan\u003E\n\u003Cspan class=\"n\"\u003Eplt\u003C\u002Fspan\u003E\u003Cspan class=\"o\"\u003E.\u003C\u002Fspan\u003E\u003Cspan class=\"n\"\u003Elegend\u003C\u002Fspan\u003E\u003Cspan class=\"p\"\u003E();\u003C\u002Fspan\u003E\n\u003C\u002Fcode\u003E\u003C\u002Fpre\u003E\u003C\u002Fdiv\u003E\u003Cp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic3.zhimg.com\u002Fv2-90b479c6c45140bfef1939e929ca75ca_b.jpg\" data-size=\"normal\" class=\"content_image\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;0&#39; height=&#39;0&#39;&gt;&lt;\u002Fsvg&gt;\" data-size=\"normal\" class=\"content_image lazy\" data-actualsrc=\"https:\u002F\u002Fpic3.zhimg.com\u002Fv2-90b479c6c45140bfef1939e929ca75ca_b.jpg\"\u002F\u003E\u003Cfigcaption\u003E在这里插入图片描述\u003C\u002Ffigcaption\u003E\u003C\u002Ffigure\u003E\u003C\u002Fp\u003E\u003Ch1\u003E用于松弛差分隐私的高级组合（Advanced Composition for Approximate Differential Privacy）\u003C\u002Fh1\u003E\u003Cp data-pid=\"QqW-RFW4\"\u003E上面对高级组合的描述要求组合的各个机制满足纯\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E-差分隐私。\u003C\u002Fp\u003E\u003Cp data-pid=\"Sz14iBJT\"\u003E但是，如果它们满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E-差分隐私，则该定理也适用。高级组合定理的更一般的陈述如下：\u003C\u002Fp\u003E\u003Cp data-pid=\"9kt_f0Ev\"\u003E如果\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold自适应组合\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_1%2C+%5Cdots%2C+m_k\" alt=\"m_1, \\dots, m_k\" eeimg=\"1\"\u002F\u003E中的每个机制\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=m_i\" alt=\"m_i\" eeimg=\"1\"\u002F\u003E满足 \u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E-差分隐私\u003C\u002Fp\u003E\u003Cp data-pid=\"S9c8ZfbF\"\u003E然后对于任何\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta%27+%5Cgeq+0\" alt=\"\\delta&#39; \\geq 0\" eeimg=\"1\"\u002F\u003E，整个\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E-fold 自适应组合满足\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%27%2C+k%5Cdelta+%2B+%5Cdelta%27%29\" alt=\"(\\epsilon&#39;, k\\delta + \\delta&#39;)\" eeimg=\"1\"\u002F\u003E-差分隐私，其中：\u003C\u002Fp\u003E\u003Cp data-pid=\"Wgeo0CZC\"\u003E\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon%27+%3D+2%5Cepsilon+%5Csqrt%7B2k+%5Clog%281%2F%5Cdelta%27%29%7D\" alt=\"\\epsilon&#39; = 2\\epsilon \\sqrt{2k \\log(1\u002F\\delta&#39;)}\" eeimg=\"1\"\u002F\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"N4iqXXc-\"\u003E唯一的区别在于组合机制的失败参数\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E，其中我们有一个额外的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k%5Cdelta\" alt=\"k\\delta\" eeimg=\"1\"\u002F\u003E项。当正在组成的机制满足纯\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"\u002F\u003E-差分隐私时，则\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta+%3D+k%5Cdelta+%3D+0\" alt=\"\\delta = k\\delta = 0\" eeimg=\"1\"\u002F\u003E，我们得到与上述语句相同的结果。\u003C\u002Fp\u003E\u003Ch1\u003E总结\u003C\u002Fh1\u003E\u003Cp data-pid=\"jg5Hu7Pm\"\u003E\u003Cstrong\u003E1、通常要求\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"\u002F\u003E非常小，通常为\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%5Cfrac%7B1%7D%7Bn%5E2%7D\" alt=\"\\frac{1}{n^2}\" eeimg=\"1\"\u002F\u003E或更小，其中\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=n\" alt=\"n\" eeimg=\"1\"\u002F\u003E是数据集的大小。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"YyE76zZE\"\u003E\u003Cstrong\u003E2、高斯机制有两个主要缺点，它需要使用宽松的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=%28%5Cepsilon%2C+%5Cdelta%29\" alt=\"(\\epsilon, \\delta)\" eeimg=\"1\"\u002F\u003E差分隐私定义，并且它不如拉普拉斯机制准确。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"G-cLw_5f\"\u003E\u003Cstrong\u003E3、在二维空间中，\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E距离总是小于或等于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E距离。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"KsHHn_qR\"\u003E\u003Cstrong\u003E4、\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度明显低于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"iEQ_0-_c\"\u003E\u003Cstrong\u003E5、向量值拉普拉斯机制需要使用\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度，而向量值高斯机制允许使用\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E或\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度。这是高斯机制的一个主要优势。对于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L2\" alt=\"L2\" eeimg=\"1\"\u002F\u003E灵敏度远低于\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=L1\" alt=\"L1\" eeimg=\"1\"\u002F\u003E灵敏度的应用，高斯机制允许添加更少的噪声。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"_aw1exM5\"\u003E\u003Cstrong\u003E6、高级组合也给出了松散的边界，它们只是比顺序合成给出的边界稍微紧致一些。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cp data-pid=\"dV9bVe3Q\"\u003E\u003Cstrong\u003E7、事实证明，标准的顺序合成击败了小于约70的\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E的高级合成。因此，高级组合只有在\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E较大（例如超过 100）时才真正有用。但是，当\u003Cimg src=\"https:\u002F\u002Fwww.zhihu.com\u002Fequation?tex=k\" alt=\"k\" eeimg=\"1\"\u002F\u003E非常大时，高级组合可以产生很大的不同。\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\u003Cblockquote data-pid=\"tRaq7VMH\"\u003E\u003Cp data-pid=\"O4jS_De-\"\u003E本文使用 \u003Ca href=\"https:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F106057556\" class=\"internal\"\u003EZhihu On VSCode\u003C\u002Fa\u003E 创作并发布\u003C\u002Fp\u003E\u003C\u002Fblockquote\u003E",
+                    "adminClosedComment": false,
+                    "topics": [],
+                    "voteupCount": 16,
+                    "voting": 0,
+                    "heavyUpStatus": "allow_heavy_up",
+                    "column": {
+                        "description": "",
+                        "canManage": false,
+                        "intro": "关注差分隐私方面的研究",
+                        "isFollowing": false,
+                        "urlToken": "c_1441067704052117504",
+                        "id": "c_1441067704052117504",
+                        "articlesCount": 38,
+                        "acceptSubmission": false,
+                        "title": "差分隐私",
+                        "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fc_1441067704052117504",
+                        "commentPermission": "all",
+                        "created": 1636357314,
+                        "updated": 1636718850,
+                        "imageUrl": "https:\u002F\u002Fpica.zhimg.com\u002F4b70deef7_720w.jpg?source=172ae18b",
+                        "author": {
+                            "isFollowed": false,
+                            "avatarUrlTemplate": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93.jpg?source=172ae18b",
+                            "uid": "862987864575713280",
+                            "userType": "people",
+                            "isFollowing": false,
+                            "urlToken": "ning-fa-tiao-niao-60-46",
+                            "id": "cad2f9b784854e1f1c169ae072a5bb7d",
+                            "description": "拧发条鸟",
+                            "name": "粥少女的拧发条鸟",
+                            "isAdvertiser": false,
+                            "headline": "谈论现实",
+                            "gender": 1,
+                            "url": "\u002Fpeople\u002Fcad2f9b784854e1f1c169ae072a5bb7d",
+                            "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93_l.jpg?source=172ae18b",
+                            "isOrg": false,
+                            "type": "people"
+                        },
+                        "followers": 0,
+                        "type": "column"
+                    },
+                    "commentCount": 3,
+                    "contributions": [
+                        {
+                            "id": 35943217,
+                            "state": "accepted",
+                            "type": "first_publish",
+                            "column": {
+                                "description": "",
+                                "canManage": false,
+                                "intro": "关注差分隐私方面的研究",
+                                "isFollowing": false,
+                                "urlToken": "c_1441067704052117504",
+                                "id": "c_1441067704052117504",
+                                "articlesCount": 38,
+                                "acceptSubmission": false,
+                                "title": "差分隐私",
+                                "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fc_1441067704052117504",
+                                "commentPermission": "all",
+                                "created": 1636357314,
+                                "updated": 1636718850,
+                                "imageUrl": "https:\u002F\u002Fpica.zhimg.com\u002F4b70deef7_720w.jpg?source=172ae18b",
+                                "author": {
+                                    "isFollowed": false,
+                                    "avatarUrlTemplate": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93.jpg?source=172ae18b",
+                                    "uid": "862987864575713280",
+                                    "userType": "people",
+                                    "isFollowing": false,
+                                    "urlToken": "ning-fa-tiao-niao-60-46",
+                                    "id": "cad2f9b784854e1f1c169ae072a5bb7d",
+                                    "description": "拧发条鸟",
+                                    "name": "粥少女的拧发条鸟",
+                                    "isAdvertiser": false,
+                                    "headline": "谈论现实",
+                                    "gender": 1,
+                                    "url": "\u002Fpeople\u002Fcad2f9b784854e1f1c169ae072a5bb7d",
+                                    "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93_l.jpg?source=172ae18b",
+                                    "isOrg": false,
+                                    "type": "people"
+                                },
+                                "followers": 0,
+                                "type": "column"
+                            }
+                        }
+                    ],
+                    "isTitleImageFullScreen": false,
+                    "upvotedFollowees": [],
+                    "commercialInfo": {
+                        "isCommercial": false,
+                        "plugin": {}
+                    },
+                    "suggestEdit": {
+                        "status": false,
+                        "reason": "",
+                        "tip": "",
+                        "url": "",
+                        "title": ""
+                    },
+                    "reason": "",
+                    "annotationAction": [],
+                    "canTip": false,
+                    "tipjarorsCount": 0,
+                    "isLabeled": false,
+                    "hasPublishingDraft": false,
+                    "isFavorited": false,
+                    "favlistsCount": 18,
+                    "isNormal": true,
+                    "status": 0,
+                    "shareText": "【我们为什么用高斯机制？】差分隐私代码实现系列（七） - 来自知乎专栏「差分隐私」，作者: 粥少女的拧发条鸟 https:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F442329399 （想看更多？下载 @知乎 App：http:\u002F\u002Fweibo.com\u002Fp\u002F100404711598 ）",
+                    "canComment": {
+                        "status": true,
+                        "reason": ""
+                    },
+                    "mcnFpShow": -1,
+                    "isVisible": true,
+                    "isLiked": false,
+                    "likedCount": 3,
+                    "hasColumn": true,
+                    "republishers": [],
+                    "isNewLinkCard": true,
+                    "emojiReaction": {
+                        "cryFaceCount": 0,
+                        "cryFaceHasSet": false,
+                        "hugCount": 0,
+                        "hugHasSet": false,
+                        "likeCount": 3,
+                        "likeHasSet": false,
+                        "onlookerCount": 0,
+                        "onlookerHasSet": false
+                    },
+                    "abParam": {
+                        "shangyebiaoshi": "1"
+                    },
+                    "attachedInfo": "kgIkCgkxODY0MjQ5OTQSCTQ0MjMyOTM5ORgHIgpJTUFHRV9URVhU",
+                    "shareGuide": {
+                        "hasPositiveBubble": false,
+                        "hasTimeBubble": false,
+                        "hitShareGuideCluster": false
+                    },
+                    "settings": {
+                        "tableOfContents": {
+                            "enabled": false
+                        }
+                    },
+                    "canReference": false,
+                    "reactionInstruction": {}
+                }
+            },
+            "columns": {
+                "c_1441067704052117504": {
+                    "description": "",
+                    "canManage": false,
+                    "intro": "关注差分隐私方面的研究",
+                    "isFollowing": false,
+                    "urlToken": "c_1441067704052117504",
+                    "id": "c_1441067704052117504",
+                    "articlesCount": 38,
+                    "acceptSubmission": false,
+                    "title": "差分隐私",
+                    "url": "https:\u002F\u002Fzhuanlan.zhihu.com\u002Fc_1441067704052117504",
+                    "commentPermission": "all",
+                    "created": 1636357314,
+                    "updated": 1636718850,
+                    "imageUrl": "https:\u002F\u002Fpica.zhimg.com\u002F4b70deef7_720w.jpg?source=172ae18b",
+                    "author": {
+                        "isFollowed": false,
+                        "avatarUrlTemplate": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93.jpg?source=172ae18b",
+                        "uid": "862987864575713280",
+                        "userType": "people",
+                        "isFollowing": false,
+                        "urlToken": "ning-fa-tiao-niao-60-46",
+                        "id": "cad2f9b784854e1f1c169ae072a5bb7d",
+                        "description": "拧发条鸟",
+                        "name": "粥少女的拧发条鸟",
+                        "isAdvertiser": false,
+                        "headline": "谈论现实",
+                        "gender": 1,
+                        "url": "\u002Fpeople\u002Fcad2f9b784854e1f1c169ae072a5bb7d",
+                        "avatarUrl": "https:\u002F\u002Fpicx.zhimg.com\u002Fv2-1659088c27fbaa4da714d331919ecf93_l.jpg?source=172ae18b",
+                        "isOrg": false,
+                        "type": "people"
+                    },
+                    "followers": 0,
+                    "type": "column"
+                }
+            },
+            "topics": {},
+            "roundtables": {},
+            "favlists": {},
+            "comments": {},
+            "notifications": {},
+            "ebooks": {},
+            "activities": {},
+            "feeds": {},
+            "pins": {},
+            "promotions": {},
+            "drafts": {},
+            "chats": {},
+            "posts": {},
+            "clubs": {},
+            "clubTags": {},
+            "zvideos": {},
+            "zvideoContributions": {},
+            "briefs": {},
+            "eduCourses": {}
+        },
+        "currentUser": "252c742774993c361272009224be70c9",
+        "account": {
+            "lockLevel": {},
+            "unlockTicketStatus": false,
+            "unlockTicket": null,
+            "challenge": [],
+            "errorStatus": false,
+            "message": "",
+            "isFetching": false,
+            "accountInfo": {},
+            "urlToken": {
+                "loading": false
+            },
+            "cardUserInfo": {
+                "vipInfo": {}
+            },
+            "handleWidget": {},
+            "widgetList": [],
+            "userWidgetId": ""
+        },
+        "settings": {
+            "socialBind": null,
+            "inboxMsg": null,
+            "notification": {},
+            "email": {},
+            "privacyFlag": null,
+            "blockedUsers": {
+                "isFetching": false,
+                "paging": {
+                    "pageNo": 1,
+                    "pageSize": 6
+                },
+                "data": []
+            },
+            "blockedFollowees": {
+                "isFetching": false,
+                "paging": {
+                    "pageNo": 1,
+                    "pageSize": 6
+                },
+                "data": []
+            },
+            "ignoredTopics": {
+                "isFetching": false,
+                "paging": {
+                    "pageNo": 1,
+                    "pageSize": 6
+                },
+                "data": []
+            },
+            "restrictedTopics": null,
+            "laboratory": {}
+        },
+        "notification": {},
+        "people": {
+            "profileStatus": {},
+            "activitiesByUser": {},
+            "answersByUser": {},
+            "answersSortByVotesByUser": {},
+            "answersIncludedByUser": {},
+            "votedAnswersByUser": {},
+            "thankedAnswersByUser": {},
+            "voteAnswersByUser": {},
+            "thankAnswersByUser": {},
+            "topicAnswersByUser": {},
+            "zvideosByUser": {},
+            "articlesByUser": {},
+            "articlesSortByVotesByUser": {},
+            "articlesIncludedByUser": {},
+            "pinsByUser": {},
+            "questionsByUser": {},
+            "commercialQuestionsByUser": {},
+            "favlistsByUser": {},
+            "followingByUser": {},
+            "followersByUser": {},
+            "mutualsByUser": {},
+            "followingColumnsByUser": {},
+            "followingQuestionsByUser": {},
+            "followingFavlistsByUser": {},
+            "followingTopicsByUser": {},
+            "publicationsByUser": {},
+            "columnsByUser": {},
+            "allFavlistsByUser": {},
+            "brands": null,
+            "creationsByUser": {},
+            "creationsSortByVotesByUser": {},
+            "creationsFeed": {},
+            "infinity": {},
+            "batchUsers": {},
+            "profileInfinity": null
+        },
+        "env": {
+            "ab": {
+                "config": {
+                    "params": [
+                        {
+                            "id": "vessay_v2_sdk",
+                            "type": "Int",
+                            "value": "1",
+                            "layerId": "Qtkm"
+                        },
+                        {
+                            "id": "pc_ppt_publish",
+                            "type": "Int",
+                            "value": "1",
+                            "layerId": "pc_ppt_publish"
+                        },
+                        {
+                            "id": "helpcenter_pc",
+                            "type": "Int",
+                            "value": "0",
+                            "layerId": "helpcenter_pc"
+                        },
+                        {
+                            "id": "pc_comment",
+                            "type": "Int",
+                            "value": "1",
+                            "layerId": "EsOR"
+                        },
+                        {
+                            "id": "pc_follow",
+                            "type": "Int",
+                            "value": "1",
+                            "layerId": "pc_follow"
+                        },
+                        {
+                            "id": "draftsentrance",
+                            "type": "Int",
+                            "value": "1",
+                            "layerId": "draftsentrance"
+                        }
+                    ],
+                    "experiments": [
+                        {
+                            "expId": "pc_ppt_publish-2_v2",
+                            "expPrefix": "pc_ppt_publish",
+                            "isDynamicallyUpdated": false,
+                            "isRuntime": false,
+                            "includeTriggerInfo": false
+                        },
+                        {
+                            "expId": "pc_comment-2_v4",
+                            "expPrefix": "pc_comment",
+                            "isDynamicallyUpdated": false,
+                            "isRuntime": false,
+                            "includeTriggerInfo": false
+                        },
+                        {
+                            "expId": "pc_follow-3_v5",
+                            "expPrefix": "pc_follow",
+                            "isDynamicallyUpdated": false,
+                            "isRuntime": false,
+                            "includeTriggerInfo": false
+                        }
+                    ],
+                    "chains": [
+                        {
+                            "chainId": "_all_"
+                        }
+                    ],
+                    "encodedParams": "CtwBGwA\u002FAEcAtABpAWoBdAE7AswC1wLYAk8DUAOgA6EDogO3A\u002FMD9AMzBIwEjQSmBNYEEQUpBTIFUQWLBYwFngUWBjAGMQZ+BusGJwdXB3cHeAebB9gH3AfdBycIZwh0CHYIeQjFCNoI5Qg\u002FCUIJVAlVCWAJjQmrCcMJxAnFCcYJxwnICckJygnLCcwJ0QnlCfEJ9AkECkkKZQprCpgKpQqpCr4KxArUCt0K7Qr9CikLOws8C0MLRgtxC3YLhQuHC40LuQvAC9cL4AvlC+YLLAw4DHEMjwysDMMMyQy1CxJuAwAAAAIAAAIDAAAAAAAAAAAAAAAEBAAEAAABAQAAAQAAAAAAAAEAAAAAAgIABAABBgAAAQABAAAAAAAAAAAAAAAAAAAAAAABAwAAAAABAAAAAQEAAAcAAQABAAAAAAAFAAACAQAAAAIAAAABAAM="
+                },
+                "triggers": {}
+            },
+            "userAgent": {
+                "Edge": false,
+                "IE": false,
+                "Wechat": false,
+                "Weibo": false,
+                "QQ": false,
+                "MQQBrowser": false,
+                "Qzone": false,
+                "Mobile": false,
+                "Android": false,
+                "iOS": false,
+                "isAppleDevice": true,
+                "Zhihu": false,
+                "ZhihuHybrid": false,
+                "isBot": false,
+                "Tablet": false,
+                "UC": false,
+                "Quark": false,
+                "Sogou": false,
+                "Qihoo": false,
+                "Baidu": false,
+                "BaiduApp": false,
+                "Safari": false,
+                "GoogleBot": false,
+                "AndroidDaily": false,
+                "iOSDaily": false,
+                "WxMiniProgram": false,
+                "BaiduMiniProgram": false,
+                "QQMiniProgram": false,
+                "JDMiniProgram": false,
+                "isWebView": false,
+                "isMiniProgram": false,
+                "origin": "Mozilla\u002F5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\u002F537.36 (KHTML, like Gecko) Chrome\u002F103.0.0.0 Safari\u002F537.36"
+            },
+            "appViewConfig": {},
+            "ctx": {
+                "path": "\u002Fp\u002F442329399",
+                "query": {},
+                "href": "http:\u002F\u002Fzhuanlan.zhihu.com\u002Fp\u002F442329399",
+                "host": "zhuanlan.zhihu.com"
+            },
+            "trafficSource": "production",
+            "edition": {
+                "beijing": false,
+                "baidu": false,
+                "sogou": false,
+                "baiduBeijing": false,
+                "sogouBeijing": false,
+                "sogouInput": false,
+                "baiduSearch": false,
+                "googleSearch": false,
+                "shenma": false,
+                "miniProgram": false,
+                "xiaomi": false
+            },
+            "theme": "light",
+            "appHeaderTheme": {
+                "current": "normal",
+                "disable": true,
+                "normal": {
+                    "bgColor": "GBK99A"
+                },
+                "custom": {
+                    "bgColor": "GBK99A"
+                }
+            },
+            "enableShortcut": true,
+            "referer": "",
+            "xUDId": "ALDQczyeNRWPTi-Xa1ESA4ndFZGotWO5htw=",
+            "mode": "ssr",
+            "conf": {},
+            "xTrafficFreeOrigin": "",
+            "ipInfo": {
+                "cityName": "洛阳市",
+                "countryName": "中国",
+                "regionName": "河南",
+                "countryCode": "CN"
+            },
+            "logged": true,
+            "vars": {
+                "passThroughHeaders": {}
+            }
+        },
+        "me": {
+            "columnContributions": []
+        },
+        "label": {
+            "recognizerLists": {}
+        },
+        "ecommerce": {},
+        "comments": {
+            "pagination": {},
+            "collapsed": {},
+            "reverse": {},
+            "reviewing": {},
+            "conversation": {},
+            "parent": {}
+        },
+        "commentsV2": {
+            "stickers": [],
+            "commentWithPicPermission": {},
+            "notificationsComments": {},
+            "pagination": {},
+            "collapsed": {},
+            "reverse": {},
+            "reviewing": {},
+            "conversation": {},
+            "conversationMore": {},
+            "parent": {}
+        },
+        "pushNotifications": {
+            "default": {
+                "isFetching": false,
+                "isDrained": false,
+                "ids": []
+            },
+            "follow": {
+                "isFetching": false,
+                "isDrained": false,
+                "ids": []
+            },
+            "vote_thank": {
+                "isFetching": false,
+                "isDrained": false,
+                "ids": []
+            },
+            "currentTab": "default",
+            "notificationsCount": {
+                "default": 0,
+                "follow": 0,
+                "vote_thank": 0
+            }
+        },
+        "messages": {
+            "data": {},
+            "currentTab": "common",
+            "messageCount": 0
+        },
+        "register": {
+            "registerValidateSucceeded": null,
+            "registerValidateErrors": {},
+            "registerConfirmError": null,
+            "sendDigitsError": null,
+            "registerConfirmSucceeded": null
+        },
+        "login": {
+            "loginUnregisteredError": false,
+            "loginBindWechatError": false,
+            "loginConfirmError": null,
+            "sendDigitsError": null,
+            "needSMSIdentify": false,
+            "validateDigitsError": false,
+            "loginConfirmSucceeded": null,
+            "qrcodeLoginToken": "",
+            "qrcodeLoginScanStatus": 0,
+            "qrcodeLoginError": null,
+            "qrcodeLoginReturnNewToken": false
+        },
+        "switches": {},
+        "captcha": {
+            "captchaNeeded": false,
+            "captchaValidated": false
+        },
+        "sms": {
+            "supportedCountries": []
+        },
+        "chat": {
+            "chats": {},
+            "inbox": {
+                "recents": {
+                    "isFetching": false,
+                    "isDrained": false,
+                    "isPrevDrained": false,
+                    "result": [],
+                    "next": null,
+                    "key": null
+                },
+                "strangers": {
+                    "isFetching": false,
+                    "isDrained": false,
+                    "isPrevDrained": false,
+                    "result": [],
+                    "next": null,
+                    "key": null
+                },
+                "friends": {
+                    "isFetching": false,
+                    "isDrained": false,
+                    "isPrevDrained": false,
+                    "result": [],
+                    "next": null,
+                    "key": null
+                },
+                "search": {
+                    "isFetching": false,
+                    "isDrained": false,
+                    "isPrevDrained": false,
+                    "result": [],
+                    "next": null,
+                    "key": null
+                },
+                "config": {
+                    "newCount": 0,
+                    "strangerMessageSwitch": false,
+                    "strangerMessageUnread": false,
+                    "friendCount": 0
+                }
+            },
+            "global": {
+                "isChatMqttExisted": false
+            }
+        },
+        "emoticons": {
+            "emoticonGroupList": [],
+            "emoticonGroupDetail": {}
+        },
+        "creator": {
+            "currentCreatorUrlToken": null,
+            "homeData": {
+                "recommendQuestions": []
+            },
+            "tools": {
+                "question": {
+                    "invitationCount": {
+                        "questionFolloweeCount": 0,
+                        "questionTotalCount": 0
+                    },
+                    "goodatTopics": []
+                },
+                "customPromotion": {
+                    "itemLists": {}
+                },
+                "recommend": {
+                    "recommendTimes": {}
+                }
+            },
+            "explore": {
+                "academy": {
+                    "tabs": [],
+                    "article": {}
+                }
+            },
+            "rights": [],
+            "newRights": [],
+            "rightsStatus": {},
+            "levelUpperLimit": 10,
+            "account": {
+                "growthLevel": {}
+            },
+            "mcn": {},
+            "applyStatus": {},
+            "videoSupport": {},
+            "textBenefit": {},
+            "mcnManage": {},
+            "tasks": {},
+            "newTasks": {
+                "creatorTask": {
+                    "tasks": [],
+                    "des": []
+                }
+            },
+            "scoreInfo": {},
+            "recentlyCreated": [],
+            "analysis": {
+                "all": {},
+                "answer": {},
+                "zvideo": {},
+                "article": {},
+                "pin": {},
+                "singleContent": {}
+            },
+            "announcement": {},
+            "bannerList": [],
+            "school": {
+                "tabs": [],
+                "contents": [],
+                "banner": null,
+                "entities": {}
+            },
+            "creatorsRecommendInfo": {},
+            "menusShowControlByServer": {
+                "bVipRecomend": false,
+                "creationRelationship": false
+            },
+            "income": {
+                "aggregation": {}
+            }
+        },
+        "answers": {
+            "voters": {},
+            "copyrightApplicants": {},
+            "favlists": {},
+            "newAnswer": {},
+            "entityWords": {},
+            "concernedUpvoters": {},
+            "simpleConcernedUpvoters": {},
+            "paidContent": {},
+            "settings": {}
+        },
+        "recommendation": {
+            "homeRecommendations": []
+        },
+        "shareTexts": {},
+        "articles": {
+            "voters": {},
+            "concernedUpvoters": {}
+        },
+        "previewPost": {},
+        "favlists": {
+            "relations": {}
+        },
+        "columns": {
+            "voters": {}
+        },
+        "reward": {
+            "answer": {},
+            "article": {},
+            "question": {}
+        },
+        "video": {
+            "data": {},
+            "shareVideoDetail": {},
+            "last": {}
+        },
+        "topstory": {
+            "recommend": {
+                "isFetching": false,
+                "isDrained": false,
+                "afterId": 0,
+                "items": [],
+                "next": null
+            },
+            "follow": {
+                "isFetching": false,
+                "isDrained": false,
+                "afterId": 0,
+                "items": [],
+                "next": null
+            },
+            "room": {
+                "meta": {},
+                "isFetching": false,
+                "afterId": 0,
+                "items": [],
+                "next": null
+            },
+            "followWonderful": {
+                "isFetching": false,
+                "isDrained": false,
+                "afterId": 0,
+                "items": [],
+                "next": null
+            },
+            "sidebar": null,
+            "announcement": {},
+            "hotList": [],
+            "guestFeeds": {
+                "isFetching": false,
+                "isDrained": false,
+                "afterId": 0,
+                "items": [],
+                "next": null
+            },
+            "followExtra": {
+                "isNewUser": null,
+                "isFetched": false,
+                "followCount": 0,
+                "followers": []
+            },
+            "hotDaily": {
+                "data": [],
+                "paging": {}
+            },
+            "hotHighlight": {
+                "isFetching": false,
+                "isDrained": false,
+                "data": [],
+                "paging": {}
+            },
+            "banner": {},
+            "commercialBanner": {
+                "show": false,
+                "banner": {},
+                "trackData": {}
+            },
+            "video": {
+                "items": [],
+                "next": null,
+                "isLoading": false,
+                "isDrained": false
+            }
+        },
+        "readStatus": {},
+        "column": {},
+        "requestColumn": {
+            "categories": [],
+            "error": null
+        },
+        "articleContribution": {
+            "contributeRequests": [],
+            "deleteContributeIdList": [],
+            "handledContributeIdList": [],
+            "recommendedColumns": [],
+            "pinnedColumns": [],
+            "sentContributeRequestsIdList": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "c_1441067704052117504"
+            ]
+        },
+        "columnContribution": {
+            "contributeRequests": [],
+            "autoInviteEnabled": false,
+            "recommendedContributors": [],
+            "contributionInvitation": null
+        },
+        "draftHistory": {
+            "history": {},
+            "drafts": {}
+        },
+        "upload": {},
+        "articleDraft": {
+            "titleImage": "",
+            "titleImageSize": {},
+            "isTitleImageFullScreen": false,
+            "canTitleImageFullScreen": false,
+            "title": "",
+            "titleImageUploading": false,
+            "error": "",
+            "content": "",
+            "draftLoading": false,
+            "updating": false,
+            "globalLoading": false,
+            "pendingVideo": {
+                "resource": null,
+                "error": null
+            },
+            "deleteFail": {
+                "fail": false
+            },
+            "recommendTopics": [],
+            "selectedColumn": 0,
+            "articleDisclaimers": []
+        },
+        "articleDrafts": {
+            "isDrained": false,
+            "isLoading": false,
+            "items": []
+        },
+        "columnAutocomplete": {
+            "users": [],
+            "friends": []
+        },
+        "columnCollection": {},
+        "userProfit": {
+            "permission": {
+                "permissionStatus": {
+                    "zhiZixuan": 0,
+                    "recommend": -1,
+                    "task": 0,
+                    "plugin": 0,
+                    "infinity": 0
+                },
+                "visible": false
+            }
+        },
+        "mcn": {
+            "bindInfo": {},
+            "memberCategoryList": [],
+            "producerList": [],
+            "categoryList": [],
+            "lists": {},
+            "banners": {},
+            "protocolStatus": {
+                "isAgreedNew": true,
+                "isAgreedOld": true
+            },
+            "probationCountdownDays": 0
+        },
+        "zvideos": {
+            "campaignVideoList": {},
+            "campaigns": {},
+            "tagoreCategory": [],
+            "recommendations": {},
+            "insertable": {},
+            "recruit": {
+                "form": {
+                    "platform": "",
+                    "nickname": "",
+                    "followerCount": "",
+                    "domain": "",
+                    "contact": ""
+                },
+                "submited": false,
+                "ranking": []
+            },
+            "club": {},
+            "qyActivityData": {},
+            "talkActivityData": {},
+            "party2022ActivityData": {},
+            "batchVideos": {},
+            "contribution": {
+                "selectedContribution": null,
+                "campaign": null,
+                "configs": {},
+                "contributionLists": {},
+                "recommendQuestions": {
+                    "isLoading": true,
+                    "paging": {
+                        "isEnd": false,
+                        "isStart": true,
+                        "totals": 0
+                    },
+                    "data": []
+                },
+                "questionSearchResults": {
+                    "isLoading": true,
+                    "paging": {
+                        "isEnd": false,
+                        "isStart": true,
+                        "totals": 0
+                    },
+                    "data": []
+                }
+            },
+            "creationReferences": {},
+            "zvideoCollection": {},
+            "zvideoGrant": {},
+            "collectData": {
+                "isFetching": false,
+                "list": []
+            },
+            "videoSource": {
+                "isLoaded": false
+            }
+        },
+        "republish": {},
+        "commentPermission": {},
+        "creatorRightStatus": {
+            "list": []
+        }
+    },
+    "fetchHost": "www.zhihu.com",
+    "subAppName": "column"
+}
