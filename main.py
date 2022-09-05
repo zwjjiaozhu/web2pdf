@@ -4,6 +4,7 @@ from textwrap import dedent
 import requests
 from bs4 import BeautifulSoup
 import subprocess
+from urllib import parse
 
 HEADERS = {
     'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3100.0 Safari/537.36"
@@ -34,7 +35,7 @@ class Engine:
 
     def req_source_page(self, url):
         """ 获取url的源代码 """
-        self.html_code = request(url).text
+        self.html_code = parse.unquote(request(url).text)
         # print(f"{self.html_code=}")
         # 使用 bs4 将 html 转成 dom 对象，便于提取节点
         self.html_dom = BeautifulSoup(self.html_code, 'lxml')   # 指定 xml 解析器
@@ -42,10 +43,12 @@ class Engine:
 
     def get_content(self) -> str:
         """ 解析源代码，提取目标正文 html 源码 """
-        content_dom_lis = self.html_dom.find_all('article',
-                                                 class_='Post-NormalMain')
+        content_dom = self.html_dom.find_all('article',
+                                             class_='Post-NormalMain')[0]
         # print(content_html[0])
-        new_content = self.deal_content(content_dom_lis[0])
+        new_content = self.deal_content(content_dom)
+        print(new_content)
+        new_content = self.src_2_local(new_content)
         print(new_content)
         return str(new_content)
 
@@ -61,6 +64,38 @@ class Engine:
 
         # 2、网页中的以知乎作为跳转的链接
         # https://link.zhihu.com/?target=
+        external_a_lis = content_dom.find_all('a', class_='external')
+        for item in external_a_lis:
+            # print('a:', item)
+            item['href'] = item['href']\
+                .replace('https://link.zhihu.com/?target=', '')
+        return content_dom
+
+    def src_2_local(self, content_dom):
+        """ web资源链接缓存在本地并替换链接 """
+
+        # tag_name_lis = ['img']
+        # all_find_res = []
+        # for tag_name in tag_name_lis:
+        #     all_find_res.extend(self.html_dom.find_all(tag_name))
+        # 1、image
+        for item in content_dom.find_all('img'):
+            # print(item)
+            img_url = item['src']
+            if not img_url:
+                continue
+            print(f'src_2_local: img_url:{img_url}')
+            img_name = img_url.split('/')[-1].split('?')[0]
+            img_f_path = os.path.abspath(os.path.join('./tests', img_name))
+            img_content = request(img_url).content
+
+            with open(img_f_path, 'wb') as fp:
+                fp.write(img_content)
+
+            item['src'] = img_f_path
+
+        # 2、css
+
         return content_dom
 
     def get_css(self) -> str:
@@ -85,6 +120,7 @@ class Convert:
             '--stop-slow-scripts',
             # '--lowquality',
             '--image-dpi 100',
+            '--enable-local-file-access',   # 启用本地文件访问
             # '--image-quality 100',
             # '--disable-smart-shrinking',   # 智能
         ]
